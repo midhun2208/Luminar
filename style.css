@@ -1,0 +1,218 @@
+.navbar-brand img{
+    width: 250px;
+    height: 97%;
+}
+#navbarNav{
+    margin-left: 25%;
+    font-family:serif;
+    font-size: 18px;
+    padding: 15px, 15px,15px,15px;
+    
+}
+.navbar-container{
+    padding: 0 15px 0 15px;
+}
+.navbar{
+    height: 80.25px;
+}
+.nav-item a{
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    margin: 7px;
+}
+.navbar-nav{
+    color: black;
+    font-weight: 400;
+}
+.nav-item a:hover{
+    color: blueviolet;
+    text-decoration:double;
+}
+#courses{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 485.6px;
+    background-color: #DECCFF;
+}
+.course-warpper-heading{
+    width: 400px;
+    color:  #6D1D8E;
+    padding: 55px 15px 0 15px;
+    font-family: "Kaisei HarunoUmi";
+    
+
+}
+
+.course-warpper-heading p{
+    color: black;
+    height: 70.4px;
+    width: 445px;
+    margin: 32px 0 56px 0;
+    font-size: 15px;
+    font-weight: 600;
+}
+.course-warpper-heading h1{
+font-size: 40px;
+font-weight:600;
+font-family:unset;
+margin: 27px 0 27px 0;
+width: 445px;
+}
+.course-warpper-heading h3{
+margin:-10px 0 6px 0;
+width: 445px;
+
+}
+.image-course{
+    height: 423.6px;    
+    width: 635px;
+}
+.btn-1 {
+  align-items: center;
+  appearance: none;
+  background-color:#6d1d8e;
+  border-radius: 24px;
+  border-style: none;
+  box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,rgba(0, 0, 0, .14) 0 6px 10px 0,rgba(0, 0, 0, .12) 0 1px 18px 0;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-flex;
+  fill: currentcolor;
+  font-family: "Google Sans",Roboto,Arial,sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 48px;
+  justify-content: center;
+  letter-spacing: .25px;
+  line-height: normal;
+  max-width: 100%;
+  overflow: visible;
+  padding: 2px 24px;
+  position: relative;
+  text-align: center;
+  text-transform: none;
+  transition: box-shadow 280ms cubic-bezier(.4, 0, .2, 1),opacity 15ms linear 30ms,transform 270ms cubic-bezier(0, 0, .2, 1) 0ms;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: auto;
+  will-change: transform,opacity;
+  z-index: 0;
+}
+#traning-program{
+    height: 2682px;
+width: 1140px;
+margin-left: 10%;
+}
+.traning-program-warapper{
+    margin-top: 100px;
+    text-align: center;
+    margin-left: 230px;
+    max-width: 630px;
+    margin-top: 10%;
+}
+.traning-program-heading{
+    color:  #6D1D8E;
+    width: 630px;
+    height: 117px;
+    font-family: "Kaisei HarunoUmi";
+    font-size: 45px;
+    font-weight: 600;
+
+}
+.traning-program-paragraph{
+
+    height: 82.6px;
+    width: 630px;
+    padding: 25px 0 0 0;
+    font-family:"Mulish" ;
+}
+.search-courses{
+    height: 76.1px;
+    width: 900px;
+    border: 2px solid  #ffffff;
+    border-bottom: 2px solid  #C5C5C5;
+    margin: 50px 0 20px 0;
+    padding: 6px 12px 6px 12px;
+    outline:none;
+    margin-left: 8%;
+}
+.traning-program-col-row{
+    display: flex;
+    flex-direction: row;
+}
+.traning-program-column{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 10px;
+    line-height: 15px;
+    text-decoration: none solid rgb(33, 37, 41);
+    text-align: left;
+    word-spacing: 0px;
+    height: 700px;
+    width: 333.325px;
+    padding: 2.5rem 2rem 0.5rem 1rem;
+    min-height: auto;
+    min-width: auto;
+    display: flex;
+    flex-direction: column;
+}
+.traning-program-card-d-circle{
+    height: 150px;
+    width: 180px;
+    border-radius: 50%;
+}
+.traning-program-card-d-circle{
+    /* margin-left: 17%;
+    margin-top: 20px; */
+}
+.card-image{
+    margin-left: 37%;
+    margin-top: 30%;
+}
+.traning-program-card-one-heading{
+    color: #6d1d8e;
+    font: 700 "Barlow";
+    width: 100%;
+    max-width: 31.1rem;
+    padding-left: 0;
+    min-height: 4rem;
+    justify-content: center;
+}
+.card-body-course-list{
+    width: 227.33;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.training-program-card-one-text{
+    text-align: center;
+    height: 60px;
+    width: 248.325px;
+    margin: 22px 0 22px 0;
+    padding: 0 0 0 8px;
+    font-family: "Mulish";
+    font-size: 14px;
+
+}
+.traning-program-card-one-heading{
+
+}
+.training-program-card-one-text{
+
+}
+.traning-program-card-one-details{
+
+}
+.traning-program-card-title{
+
+}
+.sub-date-courseList{
+
+}
+.training-program-card-button{
+
+}
